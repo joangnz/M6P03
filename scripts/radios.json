@@ -1,0 +1,12 @@
+[
+    {
+        "src": "https://www.rockfm.fm",
+        "name": "RockFM",
+        "banner": "../img/rockfm.png"
+    },
+    {
+        "src": "blahbahl",
+        "name": "radigga",
+        "banner": "banner"
+    }
+]
